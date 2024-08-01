@@ -1,1 +1,1 @@
-# sampleBMC
+# Basic Mobile Application
